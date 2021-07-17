@@ -1,0 +1,333 @@
+.logoimagen{
+    width: 61px;
+    height: 50px;
+    float: left;
+    margin-left: 8px;
+    margin-bottom: 4px;
+    margin-top: 3.8px;
+}
+
+a{
+    color: rgb(48, 120, 202);
+    text-decoration: none;
+}
+
+
+.playimagen{
+    width: 280px;
+    height: 170px;
+    margin-left: 10px;
+}
+
+.officeimagen{
+    width: 280px;
+    height: 170px;
+    margin-left: 25px;
+}
+
+.libresoftimagen{
+    width: 230px;
+    height: 170px;
+    margin-left: 38px;
+}
+
+.antivirusimagen{
+    width: 240px;
+    height: 170px;
+    margin-left: 40px;
+}
+
+.juegoslista{
+    color: rgb(255, 255, 255);
+}
+
+.antiviruslista{
+    color: rgb(255, 255, 255);
+}
+
+.libresoftlista{
+    color: rgb(255, 255, 255);
+}
+
+.officelista{
+    color: rgb(255, 255, 255);
+}
+
+.contactolista{
+    color: rgb(255, 255, 255);
+    margin-top: 100px;
+}
+
+
+.lista{
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+    font-size: 18px;
+    padding-left: 15px;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 0.65px;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h2{
+    color: rgb(255, 255, 255);
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h3{
+    color: rgb(255, 255, 255);
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+table{
+    color: rgb(255, 255, 255);
+    font-family: 'Josefin Sans', sans-serif;
+    margin-left: 8px;
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 0.65px;
+}
+
+.menu{
+    color: rgb(255, 255, 255);
+    overflow: hidden;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.menu1{
+    color: rgb(255, 255, 255);
+    padding-right: 34px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h4{
+    color: rgb(255, 255, 255);
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 0.65px;
+}
+
+.piehome{
+    color: rgb(255, 255, 255);
+    margin-top: 4px;
+    margin-bottom: 10px;
+    margin-right: 0;
+    margin-left: 810px;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 0.65px;
+    text-align: center;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.margenparrafo{
+    margin: 8px;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 0.65px;
+}
+
+.margenh1{
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.margenh2{
+    margin-top: 28px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.margenh3{
+    margin-top: 22px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.margenh4{
+    margin-top: 15px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.margenul{
+    margin-top: 4px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 0;
+    color: white;
+    list-style-type: none;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 0.65px;
+}
+
+.margenol{
+    color: white;
+    margin-top: 4px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 0;
+    padding-left: 11px;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 0.65px;
+}
+
+.footerul{
+    list-style-type: none;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 0.65px;
+}
+
+.margenli{
+    margin-top: 4px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 0;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 0.65px;
+}
+
+.video{
+    margin-top: 4px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 0;
+}
+
+.imagen{
+    margin-top: 4px;
+    margin-left: 10px;
+    margin-right: 0;
+}
+
+.boton{
+    margin-top: 32px;
+    margin-bottom: 10px;
+    margin-left: 148px;
+    margin-right: 0;
+}
+
+header{
+    background-color: rgb(24, 24, 24);
+    position: sticky;top: 0px;
+    overflow: hidden;
+    font-family: 'Josefin Sans', sans-serif;
+    padding-left: 430px;
+}
+
+.antivirusrecomendado{
+    width: 200px;
+    height: 240px;
+}
+
+.antivirusrecomendado2{
+    width: 350px;
+    height: 240px;
+}
+
+.antivirusrecomendado3{
+    width: 350px;
+    height: 120px;
+}
+
+.imagenmetodos{
+    width: 450px;
+    height: 180px;
+}
+
+.imagenOnedrive{
+    width: 300px;
+    height: 100px;
+}
+
+.cuidado{
+    color: rgb(255, 0, 0);
+}
+
+.chromium{
+    width: 350px;
+    height: 180px;
+    margin-left: -56px;
+}
+
+.imagenhacker{
+    width: 420px;
+    height: 260px;
+}
+
+form{
+    color: rgb(255, 255, 255);
+    margin-left: 8px;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 0.65px;
+    margin-right: 1280px;
+}
+
+.infopersonal{
+    padding-left: 6.4px;
+}
+
+.problemas{
+    padding-left: 6.4px;
+}
+
+.plataformas{
+    padding-left: 6.4px;
+}
+
+.escribirtexto{
+    padding-left: 6.4px;
+}
+
+.footerli{
+    display: inline-block;
+}
+
+.filanombre{
+    background-color: rgb(32, 32, 32);
+}
+
+.flex-container{
+    display: flex;
+    padding: 5px;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.flex-container div{
+    margin-left: 376px;
+    margin-top: 60px;
+    padding: 10px;
+}
+
+.libresoft{
+    margin-left: -6px;
+}
+
+.playstation{
+    margin-left: 5px;
+}
+
+.antivirus{
+    margin-left: -5px;
+}
