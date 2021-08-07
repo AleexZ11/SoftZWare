@@ -15,6 +15,10 @@ html {
     background-image: $gradient;
 }
 
+.btn-gradient:hover{
+    transform: scale(1.02,1.02);
+}
+
 .btnFooter {
     display: inline-block;
     font-family: $btn-font-family;
@@ -26,10 +30,14 @@ html {
     vertical-align: middle;
     cursor: if($enable-button-pointers, pointer, null);
     user-select: none;
-    background-color: white;
     border: $btn-border-width solid transparent;
     @include button-size($btn-padding-y, $btn-padding-x, $btn-font-size, $btn-border-radius);
     @include transition($btn-transition);
+    filter: invert(100%);
+}
+
+.btnFooter:hover{
+    transform: scale(1.03,1.03);
 }
 
 @media (max-width: 767px) {
