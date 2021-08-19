@@ -13,16 +13,21 @@
     "start": "npm run build && node scripts/start.js",
     "start:debug": "npm run build && node scripts/start-debug.js"
   },
-
-  "keywords": ["SoftZWare", "Games", "Office", "Antivirus", "OpenSource", "Cheap"],
+  "keywords": [
+    "SoftZWare",
+    "Games",
+    "Office",
+    "Antivirus",
+    "OpenSource",
+    "Cheap"
+  ],
   "author": "Alex Zorzin",
   "license": "ISC",
-
   "dependencies": {
+    "animate.css": "^4.1.1",
     "bootstrap": "5.1.0"
   },
-
-"devDependencies": {
+  "devDependencies": {
     "autoprefixer": "10.3.1",
     "browser-sync": "2.27.5",
     "chokidar": "3.5.2",

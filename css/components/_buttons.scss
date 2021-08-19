@@ -6,3 +6,11 @@
     font-weight: 700;
     letter-spacing: 0.1rem;
 }
+
+.btn-gradient{
+    background-image: $gradient;
+}
+
+.btn-gradient:hover{
+    transform: scale(1.02,1.02);
+}
