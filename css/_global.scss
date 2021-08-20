@@ -44,7 +44,7 @@ html {
     }
 }
 
-.animation--hidden{
+.animation--hide{
     overflow:hidden;
 }
 
@@ -70,4 +70,11 @@ html {
     color: gray
 }
 
-    
+@media (max-width: 370px) {
+    .list-group-item{
+        border: none;
+    }
+    .list-group {
+        border: none;
+    }
+}

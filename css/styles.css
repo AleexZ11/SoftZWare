@@ -11995,7 +11995,7 @@ html {
   }
 }
 
-.animation--hidden {
+.animation--hide {
   overflow: hidden;
 }
 
@@ -12019,6 +12019,15 @@ html {
 
 .footer__text:hover {
   color: gray;
+}
+
+@media (max-width: 370px) {
+  .list-group-item {
+    border: none;
+  }
+  .list-group {
+    border: none;
+  }
 }
 
 .btn-xl {
